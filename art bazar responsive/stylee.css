@@ -1,0 +1,497 @@
+@media(max-width:1015px) {
+
+    .web {}
+
+    .header {
+
+        margin-bottom: 40px;
+
+
+    }
+
+    .para h1 {
+
+        width: 370px;
+        font-size: 30px;
+        line-height: 38px;
+        margin-bottom: 10px;
+    }
+
+    .para p {
+
+        max-width: 479px;
+        min-width: none;
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .sideimg img {
+
+        margin-right: 0px;
+        max-width: 300px;
+
+    }
+
+    .nav h2 {
+
+        font-size: 30px;
+
+    }
+
+
+    .sidebtn {
+
+        gap: 30px;
+
+    }
+
+    .sidebtn button,
+    .btn1 button {
+
+        font-size: 15px;
+        padding: 5px 25px;
+    }
+
+    .sidebtn a,
+    .btn2 a {
+
+        font-size: 15px;
+
+
+    }
+
+    .start img {
+
+        width: 35px;
+        margin-right: -15px;
+
+    }
+
+    .start {
+
+        gap: 10px;
+    }
+
+    .start h4 {
+
+        font-size: 12px;
+
+    }
+
+    .gs {
+
+        font-size: 15px;
+        padding: 5px 25px;
+
+    }
+
+    .community h1 {
+
+        justify-content: center;
+        text-align: center;
+        margin-top: 84px;
+        font-size: 38px;
+    }
+
+    .community p {
+
+        font-size: 18px;
+
+
+    }
+
+
+    .middle-btn {
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 50px;
+        margin: 43px 0px;
+
+
+    }
+
+    .btn2 button {
+
+        font-size: 20px;
+        padding: 7px 58px;
+        font-size: 18px;
+    }
+
+}
+
+
+.footer {
+
+
+    gap: 10px;
+    margin: 60px 50px;
+
+}
+
+.gbz h2 {
+
+    font-size: 15px;
+    font-weight: 600;
+
+}
+
+.footer p {
+
+    font-size: 10px;
+    line-height: 18px;
+
+}
+
+.gbz h6 {
+
+    font-size: 10px;
+    line-height: 18px;
+    padding-bottom: 8px;
+
+}
+
+.gbz h3 {
+
+    font-size: 15px;
+    line-height: 15px;
+    padding-bottom: 10px;
+
+}
+
+.gbz input {
+
+    padding: 5px 9px 5px 3px;
+
+}
+
+.footer-last {
+
+    font-size: 7px;
+    text-align: center;
+
+}
+
+
+
+
+/* Responsive for 760 px screen */
+
+
+@media (max-width:760px) {
+
+    .web {
+
+        margin: 30px 35px;
+
+    }
+
+    .para h1 {
+
+        max-width: 247px;
+        font-size: 20px;
+        line-height: 34px;
+    }
+
+    .para p {
+
+        max-width: 400px;
+        min-width: none;
+        font-size: 12px;
+    }
+
+
+
+    .sideimg img {
+
+        margin-right: 0px;
+        max-width: 250px;
+
+
+    }
+
+
+    .nav h2 {
+
+        font-size: 22px;
+
+    }
+
+
+    .sidebtn {
+
+        gap: 30px;
+
+    }
+
+    .sidebtn button,
+    .btn1 button {
+
+        font-size: 13px;
+        padding: 5px 25px;
+    }
+
+    .sidebtn a,
+    .btn2 a {
+
+        font-size: 13px;
+
+
+    }
+
+    .start img {
+
+        width: 30px;
+        margin-right: -14px;
+    }
+
+    .start {
+
+        gap: 10px;
+    }
+
+    .start h4 {
+
+        font-size: 12px;
+
+    }
+
+    .gs {
+
+        font-size: 12px;
+        padding: 3px 18px;
+
+    }
+
+
+    .community h1 {
+        text-align: center;
+        margin-top: 54px;
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .community p {
+
+        font-size: 13px;
+        margin-bottom: 30px;
+        line-height: 24px;
+
+    }
+
+    .footer {
+
+
+        gap: 7px;
+        margin: 40px 0px;
+        margin-left: -0px;
+
+    }
+
+
+
+
+}
+
+
+/* responsive for 560px screen */
+
+
+@media(max-width:560px) {
+
+
+    .web {
+
+        margin: 25px 30px;
+
+    }
+
+    .header {
+
+        margin-bottom: 30px;
+
+
+    }
+
+    .para h1 {
+
+        max-width: 185px;
+        font-size: 15px;
+        line-height: 27px;
+    }
+
+    .para p {
+
+        max-width: 239px;
+        min-width: none;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+
+
+    .sideimg img {
+
+        margin-right: 0px;
+        max-width: 200px;
+
+
+    }
+
+
+    .nav h2 {
+
+        font-size: 15px;
+        width: 150px;
+
+    }
+
+
+    .sidebtn {
+
+        gap: 13px;
+
+    }
+
+    .sidebtn button,
+    .btn1 button {
+
+        font-size: 13px;
+        padding: 1px 18px;
+    }
+
+    .sidebtn a,
+    .btn2 a {
+
+        font-size: 11px;
+
+
+    }
+
+    .start img {
+
+        width: 27px;
+        margin-right: -14px;
+    }
+
+    .start {
+
+        gap: 10px;
+    }
+
+    .start h4 {
+
+
+        font-size: 8px;
+
+    }
+
+    .gs {
+
+        font-size: 10px;
+        padding: 1px 13px;
+    }
+
+
+    .community h1 {
+        text-align: center;
+        margin-top: 38px;
+        font-size: 26px;
+        margin-bottom: -5px;
+    }
+
+    .community p {
+
+        font-size: 13px;
+        margin-bottom: 30px;
+        line-height: 21px;
+    }
+
+
+    .middle-btn {
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+        margin: 30px 0px;
+
+
+    }
+
+    .btn2 button {
+
+        font-size: 10px;
+        padding: 0px 40px
+    }
+
+
+
+
+    .footer {
+
+
+        gap: 7px;
+        margin: 40px 0px;
+        margin-left: -0px;
+        flex-wrap: wrap;
+        max-width: 1440px;
+     
+
+    }
+
+    .gbz h2 {
+
+        font-size: 10px;
+        font-weight: 600;
+
+    }
+
+    .footer p {
+
+        font-size: 7px;
+        line-height: 14px;
+
+    }
+
+    .gbz h6 {
+
+        font-size: 7px;
+        line-height: 14px;
+        padding-bottom: 5px;
+
+    }
+
+    .gbz h3 {
+
+        font-size: 10px;
+        line-height: 10px;
+        padding-bottom: 7px;
+
+    }
+
+    .gbz input {
+
+        padding: 2px 1px 2px 1px;
+        width: 100px;
+
+    }
+
+    .footer-last {
+
+        font-size: 3px;
+        text-align: center;
+
+    }
+
+    .masum {
+        display: flex;
+        justify-content: center;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+
+
+}
